@@ -1,0 +1,1342 @@
+[
+  {
+    "mountainId": "seorak",
+    "mountainName": "설악산",
+    "recommended": "120400V014",
+    "recommendedStatus": "official",
+    "shortest": "120400V012",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-001",
+    "mountainName": "가리산(홍천)",
+    "recommended": "bac-001-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-002",
+    "mountainName": "가리왕산",
+    "recommended": "bac-002-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-003",
+    "mountainName": "가야산(경상)",
+    "recommended": "bac-003-official-120700V006",
+    "recommendedStatus": "official",
+    "shortest": "bac-003-official-120700V002",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-004",
+    "mountainName": "가야산(충남)",
+    "recommended": "bac-004-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-005",
+    "mountainName": "가지산",
+    "recommended": "bac-005-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-006",
+    "mountainName": "감악산(원주)",
+    "recommended": "bac-006-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-007",
+    "mountainName": "감악산(파주)",
+    "recommended": "bac-007-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "gyeryong",
+    "mountainName": "계룡산",
+    "recommended": "120200V002",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-009",
+    "mountainName": "계방산",
+    "recommended": "bac-009-official-120900V007",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-010",
+    "mountainName": "관악산",
+    "recommended": "bac-010-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-011",
+    "mountainName": "광덕산",
+    "recommended": "bac-011-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-012",
+    "mountainName": "구병산(보은)",
+    "recommended": "bac-012-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-013",
+    "mountainName": "구봉산(진안)",
+    "recommended": "bac-013-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-014",
+    "mountainName": "금수산",
+    "recommended": "bac-014-official-121400V014",
+    "recommendedStatus": "official",
+    "shortest": "bac-014-official-121400V013",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-015",
+    "mountainName": "금오산(구미)",
+    "recommended": "bac-015-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-016",
+    "mountainName": "금정산",
+    "recommended": "bac-016-official-122800V001",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-017",
+    "mountainName": "남산(경주)",
+    "recommended": "bac-017-official-121900V005",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-018",
+    "mountainName": "내변산(부안)",
+    "recommended": "bac-018-official-121800V004",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-019",
+    "mountainName": "내연산",
+    "recommended": "bac-019-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-020",
+    "mountainName": "내장산",
+    "recommended": "bac-020-official-120600V006",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-021",
+    "mountainName": "달마산",
+    "recommended": "bac-021-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-022",
+    "mountainName": "대둔산",
+    "recommended": "bac-022-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-023",
+    "mountainName": "대야산",
+    "recommended": "bac-023-official-120500V014-ascent",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-024",
+    "mountainName": "덕룡산",
+    "recommended": "bac-024-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "deogyu",
+    "mountainName": "덕유산",
+    "recommended": "120800V002",
+    "recommendedStatus": "official",
+    "shortest": "120800V003",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-026",
+    "mountainName": "덕항산",
+    "recommended": "bac-026-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-027",
+    "mountainName": "도락산",
+    "recommended": "bac-027-official-121400V019",
+    "recommendedStatus": "official",
+    "shortest": "bac-027-official-121400V021",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-028",
+    "mountainName": "도봉산",
+    "recommended": "bac-028-official-121500V007",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-029",
+    "mountainName": "동악산(곡성)",
+    "recommended": "bac-029-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-030",
+    "mountainName": "두륜산",
+    "recommended": "bac-030-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-031",
+    "mountainName": "두타산",
+    "recommended": "bac-031-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-032",
+    "mountainName": "마니산(강화도)",
+    "recommended": "bac-032-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-033",
+    "mountainName": "마이산(진안)",
+    "recommended": "bac-033-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-034",
+    "mountainName": "명지산",
+    "recommended": "bac-034-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-035",
+    "mountainName": "모악산",
+    "recommended": "bac-035-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "mudeung",
+    "mountainName": "무등산",
+    "recommended": "122000V001",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-037",
+    "mountainName": "민주지산",
+    "recommended": "bac-037-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-038",
+    "mountainName": "방장산",
+    "recommended": "bac-038-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-039",
+    "mountainName": "방태산",
+    "recommended": "bac-039-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-040",
+    "mountainName": "백덕산",
+    "recommended": "bac-040-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-041",
+    "mountainName": "백암산",
+    "recommended": "bac-041-official-120600V003",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-042",
+    "mountainName": "백운산(광양)",
+    "recommended": "bac-042-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-043",
+    "mountainName": "백운산(동강)",
+    "recommended": "bac-043-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bukhan",
+    "mountainName": "북한산",
+    "recommended": "121500V001",
+    "recommendedStatus": "official",
+    "shortest": "121500V008",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-045",
+    "mountainName": "불갑산(영광)",
+    "recommended": "bac-045-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-046",
+    "mountainName": "비슬산",
+    "recommended": "bac-046-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-047",
+    "mountainName": "삼악산",
+    "recommended": "bac-047-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-048",
+    "mountainName": "선운산",
+    "recommended": "bac-048-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "sobaek",
+    "mountainName": "소백산",
+    "recommended": "121600V002",
+    "recommendedStatus": "official",
+    "shortest": "121600V013",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-051",
+    "mountainName": "소요산",
+    "recommended": "bac-051-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-052",
+    "mountainName": "속리산",
+    "recommended": "bac-052-official-120500V001",
+    "recommendedStatus": "official",
+    "shortest": "bac-052-official-120500V020-ascent",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-053",
+    "mountainName": "수락산",
+    "recommended": "bac-053-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-054",
+    "mountainName": "신불산",
+    "recommended": "bac-054-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-055",
+    "mountainName": "연인산",
+    "recommended": "bac-055-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-056",
+    "mountainName": "오대산 노인봉",
+    "recommended": "bac-056-official-120900V004",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-057",
+    "mountainName": "오대산 비로봉",
+    "recommended": "bac-057-official-120900V005",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-058",
+    "mountainName": "오봉산(춘천)",
+    "recommended": "bac-058-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-059",
+    "mountainName": "오서산(보령)",
+    "recommended": "bac-059-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-060",
+    "mountainName": "용문산(양평)",
+    "recommended": "bac-060-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-061",
+    "mountainName": "용봉산(홍성)",
+    "recommended": "bac-061-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-062",
+    "mountainName": "용화산",
+    "recommended": "bac-062-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-063",
+    "mountainName": "운악산",
+    "recommended": "bac-063-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-064",
+    "mountainName": "운장산",
+    "recommended": "bac-064-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-065",
+    "mountainName": "월악산",
+    "recommended": "bac-065-official-121400V001",
+    "recommendedStatus": "official",
+    "shortest": "bac-065-official-121400V003",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-066",
+    "mountainName": "월출산",
+    "recommended": "bac-066-official-121700V003",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-067",
+    "mountainName": "유명산",
+    "recommended": "bac-067-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-068",
+    "mountainName": "응봉산(울진)",
+    "recommended": "bac-068-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-069",
+    "mountainName": "장안산",
+    "recommended": "bac-069-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-070",
+    "mountainName": "재약산",
+    "recommended": "bac-070-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-071",
+    "mountainName": "조계산",
+    "recommended": "bac-071-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-072",
+    "mountainName": "조령산",
+    "recommended": "bac-072-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-073",
+    "mountainName": "주왕산",
+    "recommended": "bac-073-official-121000V003",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-074",
+    "mountainName": "주흘산",
+    "recommended": "bac-074-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "jiri",
+    "mountainName": "지리산",
+    "recommended": "120100V010",
+    "recommendedStatus": "official",
+    "shortest": "120100V011",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-076",
+    "mountainName": "지리산 바래봉",
+    "recommended": "bac-076-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-077",
+    "mountainName": "지리산 반야봉",
+    "recommended": "bac-077-official-120100V008",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-078",
+    "mountainName": "천관산",
+    "recommended": "bac-078-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-079",
+    "mountainName": "천마산",
+    "recommended": "bac-079-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "cheonseongsan",
+    "mountainName": "천성산",
+    "recommended": "cheonseongsan-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-080",
+    "mountainName": "천태산",
+    "recommended": "bac-080-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-081",
+    "mountainName": "청계산",
+    "recommended": "bac-081-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-082",
+    "mountainName": "청량산",
+    "recommended": "bac-082-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-083",
+    "mountainName": "청화산",
+    "recommended": "bac-083-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-084",
+    "mountainName": "축령산(장성)",
+    "recommended": "bac-084-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-085",
+    "mountainName": "치악산",
+    "recommended": "bac-085-official-121300V006",
+    "recommendedStatus": "official",
+    "shortest": "bac-085-official-121300V008",
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-086",
+    "mountainName": "칠갑산(청양)",
+    "recommended": "bac-086-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-087",
+    "mountainName": "칠보산(괴산)",
+    "recommended": "bac-087-official-120500V004",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-088",
+    "mountainName": "태백산",
+    "recommended": "bac-088-official-122200V007",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-089",
+    "mountainName": "태화산",
+    "recommended": "bac-089-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-090",
+    "mountainName": "팔공산",
+    "recommended": "bac-090-official-122400V006",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-091",
+    "mountainName": "팔봉산(홍천)",
+    "recommended": "bac-091-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-092",
+    "mountainName": "팔영산",
+    "recommended": "bac-092-official-121200V019",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "halla",
+    "mountainName": "한라산",
+    "recommended": "halla-seongpanak",
+    "recommendedStatus": "official",
+    "shortest": "halla-gwaneum",
+    "checkedAt": "2026-10-19",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-094",
+    "mountainName": "함백산",
+    "recommended": "bac-094-official-122200V006",
+    "recommendedStatus": "official",
+    "shortest": null,
+    "checkedAt": "2026-10-20",
+    "remaining": [],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-095",
+    "mountainName": "화악산(가평)",
+    "recommended": "bac-095-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-096",
+    "mountainName": "화왕산(창녕)",
+    "recommended": "bac-096-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-097",
+    "mountainName": "황매산(산청)",
+    "recommended": "bac-097-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-098",
+    "mountainName": "황석산(함양)",
+    "recommended": "bac-098-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  },
+  {
+    "mountainId": "bac-099",
+    "mountainName": "황악산(김천)",
+    "recommended": "bac-099-reference-1",
+    "recommendedStatus": "reference",
+    "shortest": null,
+    "checkedAt": null,
+    "remaining": [
+      "공식 출발·도착 구간",
+      "편도·왕복 거리 기준",
+      "같은 구간 소요시간",
+      "공식 난이도"
+    ],
+    "liveAccess": "출발 전 공식 통제 안내 확인 필요"
+  }
+]

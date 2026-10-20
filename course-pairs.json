@@ -1,0 +1,808 @@
+{
+  "seorak": {
+    "shortestId": "120400V012",
+    "recommendedId": "120400V014",
+    "status": "official",
+    "proof": null
+  },
+  "bac-001": {
+    "shortestId": null,
+    "recommendedId": "bac-001-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-002": {
+    "shortestId": null,
+    "recommendedId": "bac-002-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-003": {
+    "shortestId": "bac-003-official-120700V002",
+    "recommendedId": "bac-003-official-120700V006",
+    "status": "official",
+    "proof": {
+      "target": "상왕봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-003-official-120700V006",
+          "sourceRecord": "120700V006",
+          "target": "상왕봉",
+          "scope": "one-way",
+          "distanceKm": 4.0
+        },
+        {
+          "courseId": "bac-003-official-120700V002",
+          "sourceRecord": "120700V002",
+          "target": "상왕봉",
+          "scope": "one-way",
+          "distanceKm": 4.0
+        }
+      ]
+    }
+  },
+  "bac-004": {
+    "shortestId": null,
+    "recommendedId": "bac-004-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-005": {
+    "shortestId": null,
+    "recommendedId": "bac-005-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-006": {
+    "shortestId": null,
+    "recommendedId": "bac-006-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-007": {
+    "shortestId": null,
+    "recommendedId": "bac-007-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "gyeryong": {
+    "shortestId": null,
+    "recommendedId": "120200V002",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-009": {
+    "shortestId": null,
+    "recommendedId": "bac-009-official-120900V007",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-010": {
+    "shortestId": null,
+    "recommendedId": "bac-010-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-011": {
+    "shortestId": null,
+    "recommendedId": "bac-011-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-012": {
+    "shortestId": null,
+    "recommendedId": "bac-012-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-013": {
+    "shortestId": null,
+    "recommendedId": "bac-013-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-014": {
+    "shortestId": "bac-014-official-121400V013",
+    "recommendedId": "bac-014-official-121400V014",
+    "status": "official",
+    "proof": {
+      "target": "금수산",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-014-official-121400V014",
+          "sourceRecord": "121400V014",
+          "target": "금수산",
+          "scope": "one-way",
+          "distanceKm": 3.8
+        },
+        {
+          "courseId": "bac-014-official-121400V013",
+          "sourceRecord": "121400V013",
+          "target": "금수산",
+          "scope": "one-way",
+          "distanceKm": 2.7
+        }
+      ]
+    }
+  },
+  "bac-015": {
+    "shortestId": null,
+    "recommendedId": "bac-015-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-016": {
+    "shortestId": null,
+    "recommendedId": "bac-016-official-122800V001",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-017": {
+    "shortestId": null,
+    "recommendedId": "bac-017-official-121900V005",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-018": {
+    "shortestId": null,
+    "recommendedId": "bac-018-official-121800V004",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-019": {
+    "shortestId": null,
+    "recommendedId": "bac-019-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-020": {
+    "shortestId": null,
+    "recommendedId": "bac-020-official-120600V006",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-021": {
+    "shortestId": null,
+    "recommendedId": "bac-021-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-022": {
+    "shortestId": null,
+    "recommendedId": "bac-022-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-023": {
+    "shortestId": null,
+    "recommendedId": "bac-023-official-120500V014-ascent",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-024": {
+    "shortestId": null,
+    "recommendedId": "bac-024-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "deogyu": {
+    "shortestId": "120800V003",
+    "recommendedId": "120800V002",
+    "status": "official",
+    "proof": {
+      "target": "향적봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "sourceRecord": "120800V002",
+          "target": "향적봉",
+          "scope": "one-way",
+          "distanceKm": 8.5
+        },
+        {
+          "sourceRecord": "120800V003",
+          "target": "향적봉",
+          "scope": "one-way",
+          "distanceKm": 0.6
+        }
+      ]
+    }
+  },
+  "bac-026": {
+    "shortestId": null,
+    "recommendedId": "bac-026-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-027": {
+    "shortestId": "bac-027-official-121400V021",
+    "recommendedId": "bac-027-official-121400V019",
+    "status": "official",
+    "proof": {
+      "target": "도락산",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-027-official-121400V019",
+          "sourceRecord": "121400V019",
+          "target": "도락산",
+          "scope": "one-way",
+          "distanceKm": 3.3
+        },
+        {
+          "courseId": "bac-027-official-121400V020",
+          "sourceRecord": "121400V020",
+          "target": "도락산",
+          "scope": "one-way",
+          "distanceKm": 3.5
+        },
+        {
+          "courseId": "bac-027-official-121400V021",
+          "sourceRecord": "121400V021",
+          "target": "도락산",
+          "scope": "one-way",
+          "distanceKm": 1.7
+        }
+      ]
+    }
+  },
+  "bac-028": {
+    "shortestId": null,
+    "recommendedId": "bac-028-official-121500V007",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-029": {
+    "shortestId": null,
+    "recommendedId": "bac-029-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-030": {
+    "shortestId": null,
+    "recommendedId": "bac-030-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-031": {
+    "shortestId": null,
+    "recommendedId": "bac-031-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-032": {
+    "shortestId": null,
+    "recommendedId": "bac-032-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-033": {
+    "shortestId": null,
+    "recommendedId": "bac-033-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-034": {
+    "shortestId": null,
+    "recommendedId": "bac-034-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-035": {
+    "shortestId": null,
+    "recommendedId": "bac-035-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "mudeung": {
+    "shortestId": null,
+    "recommendedId": "122000V001",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-037": {
+    "shortestId": null,
+    "recommendedId": "bac-037-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-038": {
+    "shortestId": null,
+    "recommendedId": "bac-038-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-039": {
+    "shortestId": null,
+    "recommendedId": "bac-039-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-040": {
+    "shortestId": null,
+    "recommendedId": "bac-040-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-041": {
+    "shortestId": null,
+    "recommendedId": "bac-041-official-120600V003",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-042": {
+    "shortestId": null,
+    "recommendedId": "bac-042-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-043": {
+    "shortestId": null,
+    "recommendedId": "bac-043-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bukhan": {
+    "shortestId": "121500V008",
+    "recommendedId": "121500V001",
+    "status": "official",
+    "proof": {
+      "target": "백운대",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "sourceRecord": "121500V001",
+          "target": "백운대",
+          "scope": "one-way",
+          "distanceKm": 3.4
+        },
+        {
+          "sourceRecord": "121500V008",
+          "target": "백운대",
+          "scope": "one-way",
+          "distanceKm": 1.9
+        }
+      ]
+    }
+  },
+  "bac-045": {
+    "shortestId": null,
+    "recommendedId": "bac-045-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-046": {
+    "shortestId": null,
+    "recommendedId": "bac-046-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-047": {
+    "shortestId": null,
+    "recommendedId": "bac-047-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-048": {
+    "shortestId": null,
+    "recommendedId": "bac-048-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "sobaek": {
+    "shortestId": "121600V013",
+    "recommendedId": "121600V002",
+    "status": "official",
+    "proof": {
+      "target": "비로봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "sourceRecord": "121600V002",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 5.5
+        },
+        {
+          "sourceRecord": "121600V013",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 5.1
+        },
+        {
+          "sourceRecord": "121600V014",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 6.8
+        }
+      ]
+    }
+  },
+  "bac-051": {
+    "shortestId": null,
+    "recommendedId": "bac-051-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-052": {
+    "shortestId": "bac-052-official-120500V020-ascent",
+    "recommendedId": "bac-052-official-120500V001",
+    "status": "official",
+    "proof": {
+      "target": "천왕봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-052-official-120500V007",
+          "sourceRecord": "120500V007",
+          "target": "천왕봉",
+          "scope": "one-way",
+          "distanceKm": 5.4
+        },
+        {
+          "courseId": "bac-052-official-120500V020-ascent",
+          "sourceRecord": "120500V020",
+          "target": "천왕봉",
+          "scope": "one-way",
+          "distanceKm": 3.0
+        }
+      ]
+    }
+  },
+  "bac-053": {
+    "shortestId": null,
+    "recommendedId": "bac-053-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-054": {
+    "shortestId": null,
+    "recommendedId": "bac-054-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-055": {
+    "shortestId": null,
+    "recommendedId": "bac-055-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-056": {
+    "shortestId": null,
+    "recommendedId": "bac-056-official-120900V004",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-057": {
+    "shortestId": null,
+    "recommendedId": "bac-057-official-120900V005",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-058": {
+    "shortestId": null,
+    "recommendedId": "bac-058-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-059": {
+    "shortestId": null,
+    "recommendedId": "bac-059-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-060": {
+    "shortestId": null,
+    "recommendedId": "bac-060-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-061": {
+    "shortestId": null,
+    "recommendedId": "bac-061-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-062": {
+    "shortestId": null,
+    "recommendedId": "bac-062-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-063": {
+    "shortestId": null,
+    "recommendedId": "bac-063-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-064": {
+    "shortestId": null,
+    "recommendedId": "bac-064-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-065": {
+    "shortestId": "bac-065-official-121400V003",
+    "recommendedId": "bac-065-official-121400V001",
+    "status": "official",
+    "proof": {
+      "target": "영봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-065-official-121400V001",
+          "sourceRecord": "121400V001",
+          "target": "영봉",
+          "scope": "one-way",
+          "distanceKm": 6.0
+        },
+        {
+          "courseId": "bac-065-official-121400V002",
+          "sourceRecord": "121400V002",
+          "target": "영봉",
+          "scope": "one-way",
+          "distanceKm": 4.3
+        },
+        {
+          "courseId": "bac-065-official-121400V003",
+          "sourceRecord": "121400V003",
+          "target": "영봉",
+          "scope": "one-way",
+          "distanceKm": 3.6
+        },
+        {
+          "courseId": "bac-065-official-121400V004",
+          "sourceRecord": "121400V004",
+          "target": "영봉",
+          "scope": "one-way",
+          "distanceKm": 6.2
+        }
+      ]
+    }
+  },
+  "bac-066": {
+    "shortestId": null,
+    "recommendedId": "bac-066-official-121700V003",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-067": {
+    "shortestId": null,
+    "recommendedId": "bac-067-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-068": {
+    "shortestId": null,
+    "recommendedId": "bac-068-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-069": {
+    "shortestId": null,
+    "recommendedId": "bac-069-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-070": {
+    "shortestId": null,
+    "recommendedId": "bac-070-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-071": {
+    "shortestId": null,
+    "recommendedId": "bac-071-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-072": {
+    "shortestId": null,
+    "recommendedId": "bac-072-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-073": {
+    "shortestId": null,
+    "recommendedId": "bac-073-official-121000V003",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-074": {
+    "shortestId": null,
+    "recommendedId": "bac-074-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "jiri": {
+    "shortestId": "120100V011",
+    "recommendedId": "120100V010",
+    "status": "official",
+    "proof": null
+  },
+  "bac-076": {
+    "shortestId": null,
+    "recommendedId": "bac-076-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-077": {
+    "shortestId": null,
+    "recommendedId": "bac-077-official-120100V008",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-078": {
+    "shortestId": null,
+    "recommendedId": "bac-078-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-079": {
+    "shortestId": null,
+    "recommendedId": "bac-079-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "cheonseongsan": {
+    "shortestId": null,
+    "recommendedId": "cheonseongsan-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-080": {
+    "shortestId": null,
+    "recommendedId": "bac-080-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-081": {
+    "shortestId": null,
+    "recommendedId": "bac-081-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-082": {
+    "shortestId": null,
+    "recommendedId": "bac-082-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-083": {
+    "shortestId": null,
+    "recommendedId": "bac-083-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-084": {
+    "shortestId": null,
+    "recommendedId": "bac-084-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-085": {
+    "shortestId": "bac-085-official-121300V008",
+    "recommendedId": "bac-085-official-121300V006",
+    "status": "official",
+    "proof": {
+      "target": "비로봉",
+      "scope": "one-way",
+      "candidates": [
+        {
+          "courseId": "bac-085-official-121300V006",
+          "sourceRecord": "121300V006",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 6.0
+        },
+        {
+          "courseId": "bac-085-official-121300V004",
+          "sourceRecord": "121300V004",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 8.9
+        },
+        {
+          "courseId": "bac-085-official-121300V008",
+          "sourceRecord": "121300V008",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 4.1
+        },
+        {
+          "courseId": "bac-085-official-121300V011",
+          "sourceRecord": "121300V011",
+          "target": "비로봉",
+          "scope": "one-way",
+          "distanceKm": 4.5
+        }
+      ]
+    }
+  },
+  "bac-086": {
+    "shortestId": null,
+    "recommendedId": "bac-086-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-087": {
+    "shortestId": null,
+    "recommendedId": "bac-087-official-120500V004",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-088": {
+    "shortestId": null,
+    "recommendedId": "bac-088-official-122200V007",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-089": {
+    "shortestId": null,
+    "recommendedId": "bac-089-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-090": {
+    "shortestId": null,
+    "recommendedId": "bac-090-official-122400V006",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-091": {
+    "shortestId": null,
+    "recommendedId": "bac-091-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-092": {
+    "shortestId": null,
+    "recommendedId": "bac-092-official-121200V019",
+    "status": "unavailable",
+    "proof": null
+  },
+  "halla": {
+    "shortestId": "halla-gwaneum",
+    "recommendedId": "halla-seongpanak",
+    "status": "official",
+    "proof": null
+  },
+  "bac-094": {
+    "shortestId": null,
+    "recommendedId": "bac-094-official-122200V006",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-095": {
+    "shortestId": null,
+    "recommendedId": "bac-095-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-096": {
+    "shortestId": null,
+    "recommendedId": "bac-096-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-097": {
+    "shortestId": null,
+    "recommendedId": "bac-097-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-098": {
+    "shortestId": null,
+    "recommendedId": "bac-098-reference-1",
+    "status": "unavailable",
+    "proof": null
+  },
+  "bac-099": {
+    "shortestId": null,
+    "recommendedId": "bac-099-reference-1",
+    "status": "unavailable",
+    "proof": null
+  }
+}
